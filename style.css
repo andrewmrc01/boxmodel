@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(170, 112, 45);
+  margin: 20px;
+  padding: 10;
+  border: solid 2px;
+  display: inline-block;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(253, 139, 9);
+  display: inline-block;
+}/*# sourceMappingURL=style.css.map */
